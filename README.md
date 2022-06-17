@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aishwarya Ashok (@aishashok)
-- 👀 I'm an Astrophysics graduate student interested in Galaxy structures and their evolutions, Big data analysis, and Machine learning.
+- 👀 I'm an Data Scientist and Observational Astrophysicist interested in Galaxy structures and their evolutions, Big data analysis, and Machine learning.
 - 📫 You can reach me: 
       by E-mail: aish.ash.ashok@gmail.com
       Linkedin: https://www.linkedin.com/in/aishashok/

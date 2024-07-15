@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aishwarya Ashok (@aishashok)
-- 👀 I'm an Data Scientist and Observational Astrophysicist interested in Galaxy structures and their evolutions, Big data analysis, and Machine learning.
+- 👀 I’m an astrophysicist turned data scientist leveraging expertise in machine learning, natural language processing, and large language models to drive innovation and enhance decision-making processes within the insurance industry.
 - 📫 You can reach me: 
       by E-mail: aish.ash.ashok@gmail.com
       Linkedin: https://www.linkedin.com/in/aishashok/
